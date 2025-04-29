@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 International Certificates:</h2>
 
-- <b>Artificial Inteligence (Udacity)</b>
+- <b>Udacity</b>
   - [Artificial Intelligence Fundamentals](https://www.udacity.com/certificate/e/115f7432-ead5-11ef-a7c3-8b72e1bfedc5)
   - [Data Analysis Fundamentals](https://www.udacity.com/certificate/e/e86b218e-f100-11ef-a008-972c2a868be4)
   - [Android Developer Fundamentals](https://www.udacity.com/certificate/e/e647f69e-c2ce-11ef-b5d9-5b1ae7597bc6)
@@ -14,11 +14,9 @@
 - <b>Recommendation Letter</b>
   - [Adama Science and Technology University](https://drive.google.com/file/d/1idFf5IjJOwFrCJsl7fqv7Jl8YGDxYAbX/view?usp=drive_link)
   
-- <b>C# (Curriculum Vitea)</b>
+- <b>(Curriculum Vitea)</b>
   - [Curriculum Vitea (CV)](https://drive.google.com/file/d/1iQ6NbV-UQduvQX6ih146Br-GBqxG3cXG/view?usp=drive_link))
  
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Social Media Links</h2>
 
