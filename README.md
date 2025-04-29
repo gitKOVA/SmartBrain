@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael Eshetu Wondimagegn! <br/><a href="https://github.com/joshmadakor1">Instructor</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Developer</a>, <a href="https://www.youtube.com/c/joshmadakor">Tester</a></h1>
+<h1>Hi, I'm Michael Eshetu Wondimagegn! <br/><a href="https://github.com/joshmadakor1">Computer Science Instructor</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Developer</a>, <a href="https://www.youtube.com/c/joshmadakor">Tester</a></h1>
 
 <h2>👨‍💻 International Certificates:</h2>
 
