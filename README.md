@@ -35,7 +35,7 @@
 [twitter]: https://x.com/McafrayMickey
 [youtube]: https://www.youtube.com/@SmartBrain-101
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://www.linkedin.com/in/michael-e-51a09aa6/overlay/background-image/
+[linkedin]: https://www.linkedin.com/in/michael-e-51a09aa6
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
