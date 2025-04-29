@@ -18,9 +18,9 @@
   - [Curriculum Vitea (CV)](https://drive.google.com/file/d/1iQ6NbV-UQduvQX6ih146Br-GBqxG3cXG/view?usp=drive_link))
  
 
-//<h2>📺 Social Media Links</h2>
+<h2>📺 Social Media Links</h2>
 
-//- [Twitter](https://x.com/McafrayMickey)
+- [Twitter](https://x.com/McafrayMickey)
 - [Facebook](https://web.facebook.com/profile.php?id=100030008914496)
 - [Linkedin (X)](https://www.linkedin.com/in/michael-e-51a09aa6/overlay/background-image/)
 
