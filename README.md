@@ -33,7 +33,7 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://x.com/McafrayMickey
-[youtube]: https://www.youtube.com/c/SmartBrain-101
+[youtube]: https://www.youtube.com/SmartBrain-101
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://www.linkedin.com/in/michael-e-51a09aa6/overlay/background-image/
 
